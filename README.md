@@ -7,7 +7,7 @@
 
 *Para as práticas de segurança aplicadas ao projeto, serão utilizadas ferramentas open-source.*
 
-*Toda documentação das práticas do programa de AppSec, estão disponivel na Wiki deste repositório - Ainda em fase de desenvolvimento!*
+*Toda documentação das práticas do programa de AppSec, estão disponivel na Wiki deste repositório - ```Ainda em fase de desenvolvimento!```*
 
 ![Programa de AppSec](/assets/doc/img/wiki.png)
 
